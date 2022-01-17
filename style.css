@@ -1,0 +1,18 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.carousel-item .container {
+    position: absolute;
+    top: 33%;
+    left: 62%;
+    transform: translate(-50%, -50%);
+    color: rgb(233, 233, 233);
+    text-shadow: 2px 2px 2px rgb(19, 19, 19);
+}
+
+.bg-primary {
+    /* background: linear-gradient(to right, rgba(102, 126, 234, 0.6), rgba(118, 75, 162, 0.6)); */
+}
